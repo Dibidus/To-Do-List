@@ -1,0 +1,24 @@
+body {
+	background-color: #76B5AE;
+	text-align: center;
+	margin: 10% auto;
+	font-family: book antiqua;
+}
+h2 {
+	color: #222;
+}
+#toDoListOl {
+	width: 13%;
+	margin: 15px auto;
+}
+#toDoButton {
+	background-color: #fff;
+	font-family: book antiqua;
+	cursor: pointer;
+	text-transform: uppercase;
+	opacity: 0.7;
+	transition: 0.5s;
+}
+#toDoButton:hover {
+	opacity: 1.0;
+}
